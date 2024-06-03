@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: AnEye4AIBlog
 
 # Name of the author
 author: Annielytix (Laura Edell)
@@ -21,7 +21,6 @@ avatar: /images/reverie.png
 footer-links:
   dribbble:
   email: aneye4ai@gmail.com
-
   facebook:
   flickr:
   github: annielytix
@@ -48,8 +47,10 @@ google_analytics: G-V8VCKTYDN9
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.aneye4ai.com
-#enforce_ssl: https://www.amitmerchant.com/reverie
+#url: https://www.aneye4ai.com
+url: http://annielytix.github.io
+enforce_ssl: https://www.aneye4ai.com/aneye4AIBlog
+#/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
